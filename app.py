@@ -65,7 +65,7 @@ with col2:
     st.title(NAME)
     st.write(
 """
-**BS Data Science | 3.83 GPA**
+**Chapman University BS Data Science | 3.83 GPA**
 """
     )
     st.write(DESCRIPTION)
