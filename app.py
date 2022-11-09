@@ -306,7 +306,7 @@ def showLeadership():
 #     showOtherProjects()
 
 #---------------SITE LAYOUT----------------
-with st.expander("Relevant Skills and Courses", expanded = True):
+with st.expander("Relevant Skills and Courses"):
     showSkillsAndCourses()
 with st.expander("Relevant Experience"):
     showRelevantExperience()
