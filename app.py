@@ -122,7 +122,7 @@ def showSkillsAndCourses():
 def showRelevantExperience():
     # --- RELEVANT EXPERIENCE ---
     st.write('\n')
-    st.subheader("Relevant Experience")
+    st.subheader("Experience")
     st.write("---")
 
     # --- EXPERIENCE 1
@@ -164,7 +164,7 @@ def showRelevantExperience():
 def showRelevantProjects():
     # --- Relevant Projects ---
     st.write('\n')
-    st.subheader("Relevant Projects")
+    st.subheader("Projects")
     st.write("---")
 
  
@@ -211,7 +211,7 @@ def showRelevantProjects():
 
 def showMoreWorkExperience():
         # --- MORE WORK EXPERIENCE ---
-    st.subheader("More Work Experience")
+    st.subheader("Further Work Experience")
     st.write("---")
 
     # --- EXPERIENCE 1
