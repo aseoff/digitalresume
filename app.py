@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital Resume | Jesse Aseoff"
 PAGE_ICON = ":wave:"
 NAME = "Jesse Aseoff"
 DESCRIPTION = """
-I am finishing my Data Science degree at Chapman University. I am eager to learn as I enter into this exciting phase of my career!
+I am a senior studying Data Science at Chapman University. I am passionate about data and its potential to help businesses make more informed decisions. After graduation, I am looking for a position where I can use my skills to help a company grow and succeed.
 """
 EMAIL = "jesse.aseoff@gmail.com"
 SOCIAL_MEDIA = {
