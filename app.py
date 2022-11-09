@@ -91,7 +91,7 @@ def showSkillsAndCourses():
     # --- SKILLS ---
     with col1_sk:
         st.write('\n')
-        st.subheader("Hard Skills")
+        st.subheader("Relevant Skills")
         st.write(
             """
         - 👨‍💻️ **Languages:** Python, R, SQL, Java, C++
