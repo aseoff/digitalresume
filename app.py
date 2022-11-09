@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital Resume | Jesse Aseoff"
 PAGE_ICON = ":wave:"
 NAME = "Jesse Aseoff"
 DESCRIPTION = """
-I am a senior at Chapman University. I am passionate about data and its potential to help businesses make more informed decisions. After graduation, I am looking for a position where I can use my skills to help a company grow and succeed.
+I am a senior at Chapman University who is passionate about data and its potential to help businesses make more informed decisions. After graduation, I am looking for a position where I can use my skills to help a company grow and succeed.
 """
 EMAIL = "jesse.aseoff@gmail.com"
 SOCIAL_MEDIA = {
@@ -65,7 +65,7 @@ with col2:
     st.title(NAME)
     st.write(
 """
-**Chapman University BS Data Science | 3.83 GPA**
+**BS Data Science | 3.83 GPA**
 """
     )
     st.write(DESCRIPTION)
