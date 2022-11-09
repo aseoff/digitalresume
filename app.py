@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital Resume | Jesse Aseoff"
 PAGE_ICON = ":wave:"
 NAME = "Jesse Aseoff"
 DESCRIPTION = """
-Student at Chapman University studying Data Science, passionate about using data to solve complex problems.
+I am a student at Chapman University studying Data Science. I am passionate about helping others and making a positive impact through data and communication. When used properly, data can be a powerful tool in both business and social causes. It is my desire to find meaningful work that can fulfill these interests and bring positive change to all stakeholders.
 """
 EMAIL = "jesse.aseoff@gmail.com"
 SOCIAL_MEDIA = {
